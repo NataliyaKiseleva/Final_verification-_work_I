@@ -2,7 +2,8 @@
 
 - Блок-схема алгоритма
 
-![](skhema)
+![](skhema)![skhema](https://user-images.githubusercontent.com/111054659/194144154-d992af53-b201-4d22-97da-f3ec5b26127d.jpg)
+
 
 - Описание решения:
 
@@ -17,4 +18,5 @@
     5. Вывод элементов, соответствующих условию;
 - Программа:
 
-![](programm)
+![](programm)![programm](https://user-images.githubusercontent.com/111054659/194144287-461a9176-5cef-4c86-8f4a-40b84db89e53.jpg)
+

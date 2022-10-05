@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\FVW1\bin\Debug\net6.0\FVW1.exe
+C:\Users\Александр\Desktop\FVW1\bin\Debug\net6.0\FVW1.deps.json
+C:\Users\Александр\Desktop\FVW1\bin\Debug\net6.0\FVW1.runtimeconfig.json
+C:\Users\Александр\Desktop\FVW1\bin\Debug\net6.0\FVW1.dll
+C:\Users\Александр\Desktop\FVW1\bin\Debug\net6.0\FVW1.pdb
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.AssemblyInfo.cs
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.dll
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\refint\FVW1.dll
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.pdb
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\FVW1.genruntimeconfig.cache
+C:\Users\Александр\Desktop\FVW1\obj\Debug\net6.0\ref\FVW1.dll
